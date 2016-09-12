@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>AccessRights</key>
+			<integer>8191</integer>
+			<key>CheckInURL</key>
+			<string>https://192.168.1.37:8080/checkin</string>
+			<key>CheckOutWhenRemoved</key>
+			<false/>
+			<key>IdentityCertificateUUID</key>
+			<string>E2AB2264-9708-4715-80A7-6654EB34D29A</string>
+			<key>PayloadDescription</key>
+			<string>Configures Mobile Device Management</string>
+			<key>PayloadDisplayName</key>
+			<string>Mobile Device Management</string>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.mgmt.External.4d6b8d8f-6de8-40ed-bbef-cfd2178e53d6
+
+com.apple.mgmt.External.4d6b8d8f-6de8-40ed-bbef-cfd2178e53d6
+com.apple.mgmt.External.4d6b8d8f-6de8-40ed-bbef-cfd2178e53d6.mdm</string>
+			<key>PayloadOrganization</key>
+			<string></string>
+			<key>PayloadType</key>
+			<string>com.apple.mdm</string>
+			<key>PayloadUUID</key>
+			<string>B3196376-8798-4A51-8901-0E1836F94D20</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>ServerURL</key>
+			<string>https://192.168.1.37:8080/server</string>
+			<key>SignMessage</key>
+			<true/>
+			<key>Topic</key>
+			<string>com.apple.mgmt.External.4d6b8d8f-6de8-40ed-bbef-cfd2178e53d6</string>
+		</dict>
+		<dict>
+			<key>Password</key>
+			<string>DatNap</string>
+			<key>PayloadCertificateFileName</key>
+			<string>Identity.p12</string>
+			<key>PayloadContent</key>
+			<data>
+			MIINUQIBAzCCDRcGCSqGSIb3DQEHAaCCDQgEgg0EMIINADCCB7cG
+			CSqGSIb3DQEHBqCCB6gwggekAgEAMIIHnQYJKoZIhvcNAQcBMBwG
+			CiqGSIb3DQEMAQYwDgQI0JLmjdVsFloCAggAgIIHcGFY0KKltrtc
+			iuFd22nfuNJdG5/zw8UxSE50eAabew1q1Z0m5oKxv7egiRM54s5q
+			Z8gwm/+Z1RIFoD4gfC9epMUKbiH1eFz/xYUBSBDc+6AoRZwWap4o
+			1AZUqDpwR2UPb2wesgY8GoB6KJg/pYXFT/8tqqypjuKjeNw5JEVF
+			ati0e0qqWfOQ1d7yrylP8WOY16Y77ShqVOF5Ye9k9PUZMIKCS9Nn
+			SoJRxwQF70SW+mRVhAjBOTZO3hUW8MJjEQYeEBeEFzYnESr62tft
+			xOCTAd+BWya2QwkBj/6F5ItEx2zfYjfwsGfqTo4aaGseSl+NaaM8
+			IUPy5mmlnqhGN1mlVHWmc2GCaggdPK39C5H0gL0NhfFymQaW1IKv
+			eLnPPQaNJojVf6WugyEpwo4eu/ckB3UuO7LFl/vhWv+qY9j9cJFe
+			gNz+xoDdRNyGLdiDSFJaCKk2mr6uPlQSm1VTXndzLUXJguetF/z1
+			x094GlSdToG9ncZy/TQTYwrpvgXhrHCGJnNaNnTcZZQC55s7skFk
+			gZOaNmY/9701V7DTnZXHmT7SyZPL3xXZRCktUCdIO91o5KIUJKmT
+			Z7O1oKX62G+92Y3iuxikUI0vsiNEX0wuRlXUbHSzm294YVwazu93
+			1/3XEtXgfCYKeLczryFNS82urOp8tczwu2YNS2oq6JCpNCRrQDp+
+			v4AQuHl1Y/Y6rGH52zuTcOtwH4hb8OT3f5vm3ZCGQglV6eMrhEif
+			jrdXOTObHfB4RFbvrgdrCtP0uYLd3usI5/kYTiH43L8sv+7UQ7rS
+			2LeQ/pdRPnc1DG1gxP9BEaKrInN5eLwcmf6ycVUyU+GW/e0ZiG6Q
+			oR5aw9VPZYvniIakrzVZaRjcm8VM66cjoieZajd4iKhoyFrVGPk+
+			mUWI/oJUB4WXGtkFDoegW/U5Qsa3jxg+3gNAPqkMpCHxL9tPiNnN
+			rL2KCl7DuJtNjaqTe7+w5zYPR+r6yfOZQ5T8IoeZoc5V+jVScMF+
+			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
+			p1Bom2PgBAiO31xOfWV2uwICCAA=
+			</data>
+			<key>PayloadDescription</key>
+			<string>Provides device authentication (certificate or identity).</string>
+			<key>PayloadDisplayName</key>
+			<string>Identity.p12</string>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.mgmt.External.4d6b8d8f-6de8-40ed-bbef-cfd2178e53d6
+
+com.apple.mgmt.External.4d6b8d8f-6de8-40ed-bbef-cfd2178e53d6
+com.apple.mgmt.External.4d6b8d8f-6de8-40ed-bbef-cfd2178e53d6.credential</string>
+			<key>PayloadOrganization</key>
+			<string></string>
+			<key>PayloadType</key>
+			<string>com.apple.security.pkcs12</string>
+			<key>PayloadUUID</key>
+			<string>E2AB2264-9708-4715-80A7-6654EB34D29A</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>Profile description.</string>
+	<key>PayloadDisplayName</key>
+	<string>mdm-server</string>
+	<key>PayloadIdentifier</key>
+	<string>com.apple.mgmt.External.4d6b8d8f-6de8-40ed-bbef-cfd2178e53d6
+
+com.apple.mgmt.External.4d6b8d8f-6de8-40ed-bbef-cfd2178e53d6
+com.apple.mgmt.External.4d6b8d8f-6de8-40ed-bbef-cfd2178e53d6</string>
+	<key>PayloadOrganization</key>
+	<string></string>
+	<key>PayloadRemovalDisallowed</key>
+	<false/>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>94595AAF-7AEA-45DD-A0D6-47BD226E89AF</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>
